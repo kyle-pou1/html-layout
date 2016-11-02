@@ -1,0 +1,56 @@
+#main-container {
+  background: white;
+}
+
+.one{
+  height: 16vh;
+  width: 100%;
+  background: lightgray;
+  position:relative;
+}
+
+.one-div {
+  height: 90px;
+  width: 90px;
+  background: #6fa0ff;
+  position: absolute;
+  margin: 19px;
+}
+
+.two {
+  height: 30vh;
+  width: 100%;
+  display:flex;
+  justify-content: center;
+}
+
+.two-words {
+  font-size: 20px;
+  text-align: center;
+  align-self: center;
+}
+
+
+.three{
+  height: 20vh;
+  width: 100%;
+  background: #6fa0ff;
+}
+
+.four{
+  height: 20vh;
+  width: 100%;
+  background: #75efd4;
+}
+
+.five{
+  height: 20vh;
+  width: 100%;
+  background: #c0f79c;
+}
+
+.six{
+  height: 20vh;
+  width: 100%;
+  background: gold;
+}

@@ -1,0 +1,25 @@
+#header {
+  background: #d8d8d8;
+
+}
+
+.one{
+  height: 20vh;
+  width: 100%;
+  background: #525252;
+}
+
+.two {
+  height: 70vh;
+  width: 75%;
+  margin: 0 auto;
+  background: #f9f8f8;
+}
+
+.three {
+  height: 10vh;
+  width: 75%;
+  margin: 0 auto;
+  background: black;
+
+}
